@@ -1,0 +1,16 @@
+Pour pouvoir lancer le projet
+
+Veuillez suivre les étapes suivantes:
+
+les commandes pour creer une app react et la lancer
+
+-npx create-react-app mon-app
+-cd mon-app
+-npm start pour lancer l'app dans votre navigateur
+
+ensuite supprimer tout le contenu du fichier src de mon-app et remplacé
+le par le contenu du src téléchargé de To-Do-List
+
+J'ai utilisé Bulma, le framework css. Vous devrez l'installé aussi
+-cd mon-app // dans votre repertoire
+-npm install bulma
